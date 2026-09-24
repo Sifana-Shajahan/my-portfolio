@@ -71,7 +71,7 @@ export const skills = {
     },
     {
       name: "GitHub",
-      icon: "/images/skills/gitHub.svg",
+      icon: "/images/skills/github.svg",
     },
     {
       name: "VS Code",
