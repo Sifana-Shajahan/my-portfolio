@@ -198,7 +198,7 @@ export default function ProjectCard({
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-xl bg-violet-600 px-4 py-2.5 text-sm font-semibold text-white transition-all duration-300 hover:-translate-y-1 hover:bg-violet-700 hover:shadow-lg hover:shadow-violet-300/40"
               >
-                Live Project
+                View Project
                 <ExternalLink size={16} />
               </a>
             )}
