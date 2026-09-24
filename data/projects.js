@@ -93,12 +93,12 @@ export const projects = [
     role: "Individual Full Stack Developer",
 
     images: [
-      "/images/projects/shopkart-1.png",
-      "/images/projects/shopkart-2.png",
-      "/images/projects/shopkart-3.png",
-      "/images/projects/shopkart-4.png",
-      "/images/projects/shopkart-5.png",
-      "/images/projects/shopkart-6.png",
+      "/images/projects/shopKart-1.png",
+      "/images/projects/shopKart-2.png",
+      "/images/projects/shopKart-3.png",
+      "/images/projects/shopKart-4.png",
+      "/images/projects/shopKart-5.png",
+      "/images/projects/shopKart-6.png",
     ],
 
     liveUrl: "",
